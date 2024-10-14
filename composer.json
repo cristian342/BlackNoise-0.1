@@ -1,0 +1,11 @@
+{
+    "name": "usuario/black-noise",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\BlackNoise\\": "src/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    }
+}
